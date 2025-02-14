@@ -26,7 +26,7 @@ We expect to contribute with new knowledge about how stress visualizations can l
 
 # Timeline
 
-```graph
+```mermaid
 gantt
 
     title Engineering research in software
